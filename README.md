@@ -22,7 +22,7 @@
 # Automatic-License-Plate-Recognition-C#
 ## Overview
 
-This repository demonstrates  `ANPR/ALPR(Automatic Number/License Plate Recognition)` SDK with unmatched accuracy and precision by applying `SOTA(State-of-the-art)` deep learning techniques. </br>
+This repository demonstrates  `ANPR/ALPR(Automatic Number/License Plate Recognition)` SDK C#.Net version with unmatched accuracy and precision by applying `SOTA(State-of-the-art)` deep learning techniques. </br>
 `KBY-AI`'s `LPR` solutions utilizes artificial intelligence and machine learning to greatly surpass legacy solutions. Now, in real-time, users can receive a vehicle's plate number through `API`.
 > We can customize the `SDK` to align with customer's specific requirements.
 > 
@@ -40,11 +40,12 @@ The `ALPR` system works in these strides, the initial step is the location of th
 ### ◾License Plate Recognition SDK Product List
   | No.      | Repository | SDK Details | Status |
   |------------------|------------------|------------------|------------------|
-  | ➡️        | <b>[LPR - Linux](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Docker)</b>    | <b>License Plate Recognition Linux SDK</b> | <b>Available</b> |
+  | 1        | [LPR - Linux](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Docker)    | License Plate Recognition Linux SDK | Available |
   | 2        | [LPR - Docker](https://hub.docker.com/r/kbyai/license-plate-recognition)    | License Plate Recognition Docker Image | Available |
   | 3        | [LPR - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)    | License Plate Recognition Flutter SDK | Available |
-  | 4        | LPR - Android    | License Plate Recognition Android SDK | Developing |
-  | 5        | LPR - iOS    | License Plate Recognition iOS SDK | Developing |
+  | ➡️        | <b>[LPR - C#](https://github.com/kby-ai/Automatic-License-Plate-Recognition-CSharp-.NET)</b>    | <b>License Plate Recognition C# SDK</b> | <b>Available</b> |
+  | 5        | LPR - Android    | License Plate Recognition Android SDK | Developing |
+  | 6        | LPR - iOS    | License Plate Recognition iOS SDK | Developing |
 
 > To get more products, please visit products [here](https://github.com/kby-ai):<br/>
 
