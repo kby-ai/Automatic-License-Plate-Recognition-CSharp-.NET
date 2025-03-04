@@ -56,7 +56,7 @@ To try `KBY-AI` `ALPR` online, please visit [here](https://web.kby-ai.com/)
   ![image](https://github.com/user-attachments/assets/0e5f7989-ee7c-4ddf-98cd-71c568429eeb)
 
 ## SDK License
-This project demonstrates `KBY-AI`'s `Palmprint Recognition Server SDK`, which requires a license per machine.</br>
+This project demonstrates `KBY-AI`'s `License Plate Recognition Server SDK`, which requires a license per machine.</br>
 - To use the latest update, plesae contact `KBY-AI` team.</br>
 - To request the license, please provide us with the `machine code` obtained from the `getMachineCode` function.</br>
 - Ensure you copy the `license.txt` file to the `bin/Debug/net8.0-windows` folder, as shown in the image below:</br>
