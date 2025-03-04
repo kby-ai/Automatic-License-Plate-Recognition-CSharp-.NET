@@ -1,0 +1,16 @@
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition_C_.Form1.resources
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.csproj.GenerateResource.cache
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.AssemblyInfoInputs.cache
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.AssemblyInfo.cs
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.csproj.CoreCompileInputs.cache
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\bin\Debug\net8.0-windows\LicensePlateRecognition-C#.exe
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\bin\Debug\net8.0-windows\LicensePlateRecognition-C#.deps.json
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\bin\Debug\net8.0-windows\LicensePlateRecognition-C#.runtimeconfig.json
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\bin\Debug\net8.0-windows\LicensePlateRecognition-C#.dll
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\bin\Debug\net8.0-windows\LicensePlateRecognition-C#.pdb
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.dll
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\refint\LicensePlateRecognition-C#.dll
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.pdb
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\LicensePlateRecognition-C#.genruntimeconfig.cache
+D:\Temp\ka\project\LicensePlateRecognition-C#\LicensePlateRecognition-C#\obj\Debug\net8.0-windows\ref\LicensePlateRecognition-C#.dll
