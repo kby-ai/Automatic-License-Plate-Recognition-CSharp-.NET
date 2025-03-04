@@ -50,16 +50,10 @@ The `ALPR` system works in these strides, the initial step is the location of th
 > To get more products, please visit products [here](https://github.com/kby-ai):<br/>
 
 ## Try the API
-## Online Demo
 To try `KBY-AI` `ALPR` online, please visit [here](https://web.kby-ai.com/)
-> Please select tab 'ALPR/ANPR` for this `SDK`
-  ![image](https://github.com/user-attachments/assets/77c9be85-16a8-4771-8c0e-c35bf01a506b)
-
-### Postman
-  The `API` can be evaluated through `Postman` tool. Here are the endpoints for testing:
-  - Test with an image file: Send a `POST` request to `http://89.116.159.229:8085/alpr`.
-  - Test with a `base64-encoded` image: Send a `POST` request to `http://89.116.159.229:8085/alpr_base64`.
-  ![image](https://github.com/user-attachments/assets/a434f9f7-9efb-4c66-a1ea-c728a8074458)
+## Screenshot
+> Please click on `Open` button and choose a image file to see the performance.
+  ![image](https://github.com/user-attachments/assets/0e5f7989-ee7c-4ddf-98cd-71c568429eeb)
 
 ## SDK License
 This project demonstrates `KBY-AI`'s `Palmprint Recognition Server SDK`, which requires a license per machine.</br>
