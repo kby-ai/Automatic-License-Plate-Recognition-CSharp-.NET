@@ -110,7 +110,7 @@ namespace LicensePlateRecognition_C_
                             using (Font font = new Font("Arial", 50, FontStyle.Bold))
                             using (SolidBrush brush = new SolidBrush(Color.Yellow))
                             {
-                                graphics.DrawString(alprResults[i].number, font, brush, alprResults[i].vl_x1, alprResults[i].vl_y1 - 25);
+                                graphics.DrawString(alprResults[i].number + " " + alprResults[i].score.ToString("F3"), font, brush, alprResults[i].vl_x1, alprResults[i].vl_y1 - 25);
                             }
                         }
                     }

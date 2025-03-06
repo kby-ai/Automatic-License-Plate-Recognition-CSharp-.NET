@@ -19,6 +19,7 @@ namespace KBYAIALPR
     {
         public int lp_x1, lp_y1, lp_x2, lp_y2;			//license plate rect;
         public int vl_x1, vl_y1, vl_x2, vl_y2;			//vehicle rect
+        public float score;
 
         [MarshalAs(UnmanagedType.ByValTStr, SizeConst = 64)]
         public string number;
@@ -27,6 +28,7 @@ namespace KBYAIALPR
         {
             lp_x1 = lp_x2 = lp_y1 = lp_y2 = 0;
             vl_x1 = vl_x2 = vl_y1 = vl_y2 = 0;
+            score = 0;
             number = String.Empty;
         }
     };

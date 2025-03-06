@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\development\\.nuget\\packages\\": {},
+    "F:\\InstalledApp\\vs2019\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\ka\\project\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#.csproj",
+      "projectUniqueName": "D:\\company\\resource\\dev\\alpr\\LicensePlateRecognition-C#_250306\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#.csproj",
       "projectName": "LicensePlateRecognition-C#",
-      "projectPath": "D:\\Temp\\ka\\project\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\ka\\project\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#\\obj\\",
+      "projectPath": "D:\\company\\resource\\dev\\alpr\\LicensePlateRecognition-C#_250306\\LicensePlateRecognition-C#\\LicensePlateRecognition-C#.csproj",
+      "packagesPath": "C:\\Users\\development\\.nuget\\packages\\",
+      "outputPath": "D:\\company\\resource\\dev\\alpr\\LicensePlateRecognition-C#_250306\\LicensePlateRecognition-C#\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\InstalledApp\\vs2019\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\development\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -69,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
